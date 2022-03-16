@@ -1,0 +1,1 @@
+M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\02_05_formatting_print\formatting_print\target\debug\formatting_print.exe: M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\02_05_formatting_print\formatting_print\src\main.rs

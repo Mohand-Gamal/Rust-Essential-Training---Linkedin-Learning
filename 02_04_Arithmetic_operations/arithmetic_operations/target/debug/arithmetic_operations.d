@@ -1,0 +1,1 @@
+M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\02_04_Arithmetic_operations\arithmetic_operations\target\debug\arithmetic_operations.exe: M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\02_04_Arithmetic_operations\arithmetic_operations\src\main.rs
