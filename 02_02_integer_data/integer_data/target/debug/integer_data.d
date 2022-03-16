@@ -1,0 +1,1 @@
+M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\02_02_integer_data\integer_data\target\debug\integer_data.exe: M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\02_02_integer_data\integer_data\src\main.rs
