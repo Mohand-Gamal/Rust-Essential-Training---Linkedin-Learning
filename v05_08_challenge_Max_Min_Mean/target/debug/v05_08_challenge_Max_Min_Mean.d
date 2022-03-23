@@ -1,0 +1,1 @@
+M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\v05_08_challenge_Max_Min_Mean\target\debug\v05_08_challenge_Max_Min_Mean.exe: M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\v05_08_challenge_Max_Min_Mean\src\main.rs

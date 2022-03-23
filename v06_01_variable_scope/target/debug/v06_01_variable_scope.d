@@ -1,0 +1,1 @@
+M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\v06_01_variable_scope\target\debug\v06_01_variable_scope.exe: M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\v06_01_variable_scope\src\main.rs

@@ -1,0 +1,1 @@
+M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\v06_07_transfer_ownership\target\debug\v06_07_transfer_ownership.exe: M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\v06_07_transfer_ownership\src\main.rs

@@ -1,0 +1,1 @@
+M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\v05_06_for_loops\target\debug\v05_06_for_loops.exe: M:\Documents\Online\ Learning\Rust\ Essential\ Training\ -\ Linkedin\ Learning\v05_06_for_loops\src\main.rs
